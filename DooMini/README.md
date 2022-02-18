@@ -12,9 +12,11 @@
 
 
    <br/><br/>
-      Solarized dark             |  Solarized Ocean
-     :-------------------------:|:-------------------------:
-     ![DooMini (5)](https://user-images.githubusercontent.com/96996921/154187278-408c3c5a-c36f-4fac-b675-3119d600fdbd.jpg)  | ![DooMini (5)](https://user-images.githubusercontent.com/96996921/154187278-408c3c5a-c36f-4fac-b675-3119d600fdbd.jpg) 
+    
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
    
   
   
