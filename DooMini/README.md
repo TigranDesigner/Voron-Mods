@@ -13,9 +13,9 @@
 
    <br/><br/>
     
-| First Header  | Second Header |
-| ------------- | ------------- |
-| ![DooMini (6)](https://user-images.githubusercontent.com/96996921/154594650-24eda6fa-f4e0-4eee-90d5-6b3ad296c29d.jpg) | ![DooMini (5)](https://user-images.githubusercontent.com/96996921/154594701-9e20064f-97b1-40fc-ba48-e8b883cacc17.jpg)   |
+| ------------- | ------------- | | ------------- |
+| ![DooMini (6)](https://user-images.githubusercontent.com/96996921/154594650-24eda6fa-f4e0-4eee-90d5-6b3ad296c29d.jpg) |  ![DooMini (5)](https://user-images.githubusercontent.com/96996921/154594920-b40d7d4b-7e53-4d98-b98e-246b48428fd5.jpg)
+  |
 | Content Cell  | Content Cell  |
    
   
