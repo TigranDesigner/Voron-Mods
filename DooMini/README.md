@@ -14,9 +14,8 @@
    <br/><br/>
       Solarized dark             |  Solarized Ocean
      :-------------------------:|:-------------------------:
-     ![DooMini (5)](https://user-images.githubusercontent.com/96996921/154187278-408c3c5a-c36f-4fac-b675-3119d600fdbd.jpg)  |
-      
-      ![DooMini (6)](https://user-images.githubusercontent.com/96996921/154594476-4ec89718-eab8-4961-a633-1edad5c442f6.jpg)
+     ![DooMini (5)](https://user-images.githubusercontent.com/96996921/154187278-408c3c5a-c36f-4fac-b675-3119d600fdbd.jpg)  | ![DooMini (5)](https://user-images.githubusercontent.com/96996921/154187278-408c3c5a-c36f-4fac-b675-3119d600fdbd.jpg) 
+   
   
   
   
