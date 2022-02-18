@@ -15,7 +15,7 @@
     
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| ![DooMini (6)](https://user-images.githubusercontent.com/96996921/154594650-24eda6fa-f4e0-4eee-90d5-6b3ad296c29d.jpg) | Content Cell  |
 | Content Cell  | Content Cell  |
    
   
