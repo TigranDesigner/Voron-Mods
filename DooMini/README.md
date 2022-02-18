@@ -1,13 +1,5 @@
- # DooMini  Beta
+<h1 align="center">DooMini  Beta</h1>
 
-<p align="center">
-     
-</p>
-
-<h1 align="center">Material Bread</h1>
-
-
- 
   
   <br/><br/>
   
