@@ -8,7 +8,8 @@
   
   <br/><br/>
   
-  ![Animaiton 360 copy 2](https://user-images.githubusercontent.com/96996921/154593812-978cc5f5-2d84-4d79-9e27-7356034017ea.gif)
+  ![62 Frame ](https://user-images.githubusercontent.com/96996921/154594242-326a16b4-4b39-4a22-ac2f-507204b70afe.gif)
+
 
    <br/><br/>
 
