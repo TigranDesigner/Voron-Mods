@@ -1,9 +1,8 @@
-
+Heading level 1
+===============
 
 <p align="center">
       # DooMini  Beta
-      Heading level 1
-      ===============
 </p>
 
 
