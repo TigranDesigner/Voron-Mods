@@ -2,8 +2,8 @@
 
 <p align="center">
       # DooMini  Beta
-      
-      <h1>Heading level 1</h1>
+      Heading level 1
+      ===============
 </p>
 
 
