@@ -1,7 +1,7 @@
 <h1 align="center">DooMini  Beta</h1>
   
  <p align="center">
-    This is Voron 0.1 mod that improves the insulation of the printer by using dubble glazed pannels
+    This is Voron 0.1 mod that improves the insulation of the printer by using double glazed panels.
 </p>
   
   ![62 Frame ](https://user-images.githubusercontent.com/96996921/154594242-326a16b4-4b39-4a22-ac2f-507204b70afe.gif)
