@@ -5,7 +5,7 @@
 | BOM  |       
 | ------------- |
 | 1x Heat set insert |
-| 1x 16mm M3 Flush head scrwe  |
+| 1x 16mm M3 flat head screw|
 | 2x PTFE tube 85mm |
 | 3D printed parts |
   
