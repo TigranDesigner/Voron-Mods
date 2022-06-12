@@ -1,10 +1,15 @@
 <h1 align="center">Foldable Spool Honder For DooMini</h1>
 
-BOM
-1 Heat set insert
-1 16mm M3 Flush head scrwe 
-3D printed parts
-PTFE tube 85mm X2
+  
+| BOM  |       
+| ------------- |
+| 1x Heat set insert |
+| 1x 16mm M3 Flush head scrwe  |
+| 2x PTFE tube 85mm |
+| 3D printed parts |
+  
+
+
 
 ![ViewCapture20220612_001325](https://user-images.githubusercontent.com/96996921/173215363-f19fefed-dc60-4476-8965-37cb97c3efd1.jpg)
 
